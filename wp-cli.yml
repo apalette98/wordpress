@@ -1,0 +1,2 @@
+@prod:
+  ssh: user@123.456.78.90:/sites/example.com
